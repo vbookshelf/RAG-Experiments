@@ -43,12 +43,15 @@ https://colab.research.google.com/github/UKPLab/sentence-transformers/blob/maste
 
 Deeplearning.ai Short Course<br>
 Large Language Models with Semantic Search<br>
+(Weaviate and Cohere)<br>
 https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
 
 Deeplearning.ai Short Course<br>
 Vector Databases: from Embeddings to Applications<br>
+(Weaviate)<br>
 https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/
 
 Deeplearning.ai Short Course<br>
 Building Applications with Vector Databases<br>
+(Sentence Transformers and Pinecone)<br>
 https://www.deeplearning.ai/short-courses/building-applications-vector-databases/<br>
