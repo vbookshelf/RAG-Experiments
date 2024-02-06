@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>untitled</title>
+</head>
+
+<body>
+	 <!-- Click this button to send the API request -->
+	 <button onclick="makeApiRequest()">Make API Request</button>
+</body>
+</html>
+
+<script>
+	
+// The vector database has already been created on Weaviate. It's called: MyTable1
+// The properties are: title, foo, quote_text
+
+
+// *** This url constantly changes depending on the curl request that needs to be sent
+const weaviateEndpoint = 'https://my-sandbox1-1486fdzz.weaviate.network/v1/graphql';
+
+const weaviateApiKey = 'YOUR-API-KEY';
+const openaiApiKey = 'YOUR-API-KEY';
+
+	
+async function makeApiRequest() {
+  
+
+  const requestBody = JSON.stringify({
+    query: `
+      { 
+        Get {
+          MyTable1 (
+            limit: 2
+            nearText: {
+              concepts: ["What did the fox do?"]
+            }
+          ) {
+            title
+            foo
+            quote_text
+          }
+        }
+      }
+    `,
+  });
+
+  const headers = {
+    'Authorization': `Bearer ${weaviateApiKey}`,
+    'Content-Type': 'application/json',
+    'X-OpenAI-Api-Key': openaiApiKey,
+  };
+
+  try {
+    const response = await fetch(weaviateEndpoint, {
+      method: 'POST',
+      headers,
+      body: requestBody,
+    });
+
+    const response_json = await response.json();
+
+	
+	// Print the entire response to the console
+	console.log(response_json);
+	
+	// Print the first result text
+    console.log(response_json['data']['Get']['MyTable1'][0]['quote_text']);
+    
+  } catch (error) {
+    console.error('Error:', error);
+  }
+}
+
+//makeApiRequest();
+
+</script>
