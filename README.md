@@ -9,3 +9,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_01-Understand-RAG-wo
 
 - Exp_02 - Test Weaviate connection using Python (Client version 3) and using Curl in Javascript<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_02-Test-wcs-conn-with-curl-in-js
+
+- Exp_03 - Set up a small vector database on Weaviate (Sandbox)<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_3-Set-up-a-vector-db-on-Weaviate
