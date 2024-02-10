@@ -15,3 +15,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_3-Set-up-a-vector-db
 
 - Exp_04 - Query a Weaviate vector database using Curl in Javascript<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_4-Query-database-using-curl-in-js
+
+- Exp_5 Add OHS Act to Weaviate vector database and run queries<br>
+https://github.com/vbookshelf/RAG-Experiments/blob/main/Exp_5-Add-OHS-Act-to-vector-db-and-query/README.md
