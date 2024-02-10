@@ -9,7 +9,7 @@
   
 ### Notes
 - The chunks are in the ohs-act.txt file.
-- The Chunks are separated by the '#' symbol which I added manually.
+- The chunks are separated by the '#' symbol which I added manually.
 - The original act is also included in this repo.
 - Two Jupyter notebooks are included in this repo.
 
