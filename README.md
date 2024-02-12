@@ -28,3 +28,6 @@ https://github.com/vbookshelf/RAG-Experiments/blob/main/Exp_7-Implement-hybrid-s
 - Exp_8 - Get the Weaviate code working in a Javascript web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_8-Get-the-weaviate-code-working-in-a-js-web-app
 
+- Exp_9 - Create a fully functioning Javascript RAG app with OpenAi generative output<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_9-Create-js-app-with-openai-generative-output
+
