@@ -16,8 +16,12 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_3-Set-up-a-vector-db
 - Exp_04 - Query a Weaviate vector database using Curl in Javascript<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_4-Query-database-using-curl-in-js
 
-- Exp_5 Add OHS Act to Weaviate vector database and run queries<br>
+- Exp_5 - Add OHS Act to Weaviate vector database and run queries<br>
 https://github.com/vbookshelf/RAG-Experiments/blob/main/Exp_5-Add-OHS-Act-to-vector-db-and-query/README.md
 
-- Exp_6 Implement keyword search, hybrid search and reranking inside Weaviate<br>
+- Exp_6 - Implement keyword search, hybrid search and reranking inside Weaviate<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_6-Implement-hybrid-search-and-reranking-within-Weviate
+
+- Exp_7 - Implement hybrid search and reranking in Javascript<br>
+https://github.com/vbookshelf/RAG-Experiments/blob/main/Exp_7-Implement-hybrid-search-and-reranking-in-js/README.md
+
