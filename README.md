@@ -18,3 +18,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_4-Query-database-usi
 
 - Exp_5 Add OHS Act to Weaviate vector database and run queries<br>
 https://github.com/vbookshelf/RAG-Experiments/blob/main/Exp_5-Add-OHS-Act-to-vector-db-and-query/README.md
+
+- Exp_6 Implement keyword search, hybrid search and reranking inside Weaviate<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_6-Implement-hybrid-search-and-reranking-within-Weviate
