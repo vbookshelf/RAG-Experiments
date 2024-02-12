@@ -1,4 +1,4 @@
-## Exp_6 Implement keyword search, hybrid search and reranking inside Weaviate
+## Exp_6 - Implement keyword search, hybrid search and reranking inside Weaviate
 
 ### Objective
 - Test the Cohere API key to see that it works
