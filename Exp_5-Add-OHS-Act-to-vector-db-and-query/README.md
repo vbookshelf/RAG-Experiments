@@ -1,4 +1,4 @@
-## Exp_5 Add OHS Act to Weaviate vector database and run queries
+## Exp_5 - Add OHS Act to Weaviate vector database and run queries
 
 ### Objective
 - Manually convert the South African Occupational Health and Safety Act into chunks
