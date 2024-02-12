@@ -14,3 +14,14 @@
 ### Lessons Learned
 - During a vector search the top result may not be the best result, because vectors are being compared. Reranking improves results because text strings are being compared. To get the most out of reranking ensure that the vector search outputs a large number of results (top_k setting), which can then be fed into reranking. Reranking will not be able to find the best reult if that result is not included in the original vector search results.
 - All the RAG steps can be done without leaving Weviate.  
+
+### Resources
+
+I learned everything I needed from these two Deeplearning.ai short courses.<br>
+They cover Weaviate, Cohere, hybrid search, reranking and more.<br>
+
+- Large Language Models with Semantic Search<br>
+https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
+
+- Vector Databases: from Embeddings to Applications<br>
+https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/
