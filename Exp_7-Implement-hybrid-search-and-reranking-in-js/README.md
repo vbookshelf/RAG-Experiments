@@ -1,4 +1,4 @@
-## Exp_7 Implement hybrid search and reranking in Javascript
+## Exp_7 - Implement hybrid search and reranking in Javascript
 
 ### Objective
 - Learn how to make API calls to Weaviate from Javascript
