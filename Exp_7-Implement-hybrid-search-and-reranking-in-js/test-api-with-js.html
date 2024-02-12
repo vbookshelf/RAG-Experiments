@@ -1,0 +1,217 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>untitled</title>
+</head>
+
+<body>
+	 <!-- Click this button to send the API request -->
+	 <button onclick="makeApiRequest()">Make API Request</button>
+</body>
+</html>
+
+
+
+<script>
+	
+/*
+
+To get this working we need to copy the GraphQL code from the 
+Weaviate docs, paste it in the requestBody variable here. Then we
+need to modify it to suit our database and it's properties.
+
+Example:
+Hybrid search
+https://weaviate.io/developers/weaviate/search/hybrid
+
+*/
+	
+// The vector database has already been created on Weaviate. It's called: OHS_ACT_VDB
+// The properties are: chunk_id, chunk_text
+
+
+
+
+// *** This url constantly changes depending on the curl request that needs to be sent
+const weaviateEndpoint = 'https://my-sandbox1-1486fdzz.weaviate.network/v1/graphql';
+
+const weaviateApiKey = 'YOUR-API-KEY';
+const openaiApiKey = 'YOUR-API-KEY';
+const cohereApiKey = 'YOUR-API-KEY';
+
+	
+async function makeApiRequest() {
+  
+/*
+// THIS WORKS - Code from the previous experiment
+
+  const requestBody = JSON.stringify({
+    query: `
+      { 
+        Get {
+          MyTable1 (
+            limit: 2
+            nearText: {
+              concepts: ["What did the fox do?"]
+            }
+          ) {
+            title
+            foo
+            quote_text
+          }
+        }
+      }
+    `,
+  });
+*/  
+
+
+  
+/*  
+
+CODE FOR NEAR_TEXT SEARCH (VECTOR SEARCH)
+------------------------------------------
+
+MyTable1 was used in the last JS experiment.
+  
+const requestBody = JSON.stringify({
+query: `
+{
+  Get {
+    MyTable1 (
+      nearText: {
+        concepts: ["What did the fox do?"]
+      }
+      limit: 2
+    ) {
+      title
+      foo
+	  quote_text
+      _additional {
+        distance
+        rerank(
+          property: "quote_text"
+          query: "What did the fox do?"
+        ) {
+          score
+        }
+      }
+    }
+  }
+}
+ `,
+});
+ */ 
+ 
+
+/* 
+
+CODE FOR NEAR TEXT SEARCH (VECTOR SEARCH)
+-----------------------------------------
+
+Uses the  OHS_ACT_VDB Weviate vector database that we set up.
+
+const requestBody = JSON.stringify({
+query: `
+{
+  Get {
+    OHS_ACT_VDB (
+      nearText: {
+        concepts: ["What is the definition of listed work?"]
+      }
+      limit: 10
+    ) {
+      chunk_id
+      chunk_text
+      _additional {
+        distance
+        rerank(
+          property: "chunk_text"
+          query: "What is the definition of listed work?"
+        ) {
+          score
+        }
+      }
+    }
+  }
+}
+ `,
+}); 
+
+*/
+
+
+
+// CODE FOR HYBRID SEARCH
+//------------------------
+
+// Uses the  OHS_ACT_VDB Weviate vector database that we set up.
+
+// Hybrid search
+// https://weaviate.io/developers/weaviate/search/hybrid
+
+const requestBody = JSON.stringify({
+query: `
+{
+  Get {
+    OHS_ACT_VDB (
+      hybrid: {
+        query: "What is the definition of listed work?"
+		alpha: 0.5
+      }
+      limit: 10
+    ) {
+      chunk_id
+      chunk_text
+      _additional {
+        distance
+        rerank(
+          property: "chunk_text"
+          query: "What is the definition of listed work?"
+        ) {
+          score
+        }
+      }
+    }
+  }
+}
+ `,
+});
+
+
+
+ 
+
+  const headers = {
+    'Authorization': `Bearer ${weaviateApiKey}`,
+    'Content-Type': 'application/json',
+    'X-OpenAI-Api-Key': openaiApiKey,
+	'X-Cohere-Api-Key': cohereApiKey,
+  };
+
+  try {
+    const response = await fetch(weaviateEndpoint, {
+      method: 'POST',
+      headers,
+      body: requestBody,
+    });
+
+    const response_json = await response.json();
+
+	
+	// Print the entire response to the console
+	console.log(response_json);
+	
+	// Print the first result text
+    //console.log(response_json['data']['Get']['MyTable1'][0]['quote_text']);
+	console.log(response_json['data']['Get']['OHS_ACT_VDB'][0]['chunk_text']);
+    
+  } catch (error) {
+    console.error('Error:', error);
+  }
+}
+
+//makeApiRequest();
+
+</script>
