@@ -31,3 +31,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_8-Get-the-weaviate-c
 - Exp_9 - Create a fully functioning Javascript RAG app with OpenAi generative output<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_9-Create-js-app-with-openai-generative-output
 
+- Exp_10 - Build a fully working RAG Javascript web app<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_10-Fully-working-js-app
+
