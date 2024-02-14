@@ -1,4 +1,4 @@
-## Exp_11 - Use a function call inside a RAG js web app
+## Exp_12 - Use a OpenAi function call inside a RAG js web app
 
 ### Objective
 - Create a simple working RAG Javascript web app that uses a function call. The function call is used to query the Weviate vector database.
