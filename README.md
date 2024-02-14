@@ -34,3 +34,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_9-Create-js-app-with
 - Exp_10 - Build a fully working RAG Javascript web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_10-Fully-working-js-app
 
+- Exp_11 - Put the Weaviate code inside a function<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_11-Put-the-weviate-code-inside-a-function
+
