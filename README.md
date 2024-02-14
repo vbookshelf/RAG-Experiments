@@ -40,3 +40,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_11-Put-the-weviate-c
 - Exp_12 - Use a OpenAi function call inside a RAG js web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_12-Rag-with-a-function-call-in-a-simple-js-app
 
+- Exp_13 - Added the OpenAi function call to the two-column RAG js web app<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_13-Added-function-call-to-two-column-rag-app
+
