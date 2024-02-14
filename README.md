@@ -43,3 +43,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_12-Rag-with-a-functi
 - Exp_13 - Added the OpenAi function call to the two-column RAG js web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_13-Added-function-call-to-two-column-rag-app
 
+- Exp_14 - Fix issue where the database outputs duplicate text<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_14-Fix-issue-where-db-outputs-duplicate-ids
+
