@@ -37,6 +37,6 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_10-Fully-working-js-
 - Exp_11 - Put the Weaviate code inside a function<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_11-Put-the-weviate-code-inside-a-function
 
-- Exp_12 - Use a function call inside a RAG js web app<br>
+- Exp_12 - Use a OpenAi function call inside a RAG js web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_12-Rag-with-a-function-call-in-a-simple-js-app
 
