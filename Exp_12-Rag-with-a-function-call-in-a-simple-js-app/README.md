@@ -10,7 +10,7 @@
 - This improves response speed when a user asks follow up questions.
 - This web app has the simple chat layout. There's no left and right panel.
 
-  ### Resources
+### Resources
 
   - ChatGPT Function Calling Experiments<br>
   https://github.com/vbookshelf/ChatGPT-Function-Calling-Experiments
