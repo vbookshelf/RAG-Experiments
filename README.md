@@ -46,3 +46,7 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_13-Added-function-ca
 - Exp_14 - Fix issue where the database outputs duplicate text<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_14-Fix-issue-where-db-outputs-duplicate-ids
 
+- Exp_15 - basicRAG JS - Create a template for a basic RAG web app<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/EXP_15-basicRAG-JS
+
+
