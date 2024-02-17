@@ -49,4 +49,7 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_14-Fix-issue-where-d
 - Exp_15 - basicRAG JS - Create a template for a basic RAG web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/EXP_15-basicRAG-JS
 
+- Exp_16 - functionRAG JS - Create a template for a conversational RAG web app<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/EXP_16-functionRAG-JS
+
 
