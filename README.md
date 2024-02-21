@@ -52,4 +52,7 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/EXP_15-basicRAG-JS
 - Exp_16 - functionRAG JS - Create a template for a conversational RAG web app<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/EXP_16-functionRAG-JS
 
+- Exp_17 - Create an ArXiv research paper RAG search system using FAISS<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_17-Create-ArXiv-search-system-using-FAISS
+
 
