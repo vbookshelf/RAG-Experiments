@@ -1,4 +1,4 @@
-## Exp_19 - Create an ArXiv research paper RAG search system using FAISS
+## Exp_17 - Create an ArXiv research paper RAG search system using FAISS
 
 ### Objective
 - Use the ArXiv reserach paper metadata on Kaggle to create a RAG system to serach the ArXiv database.
