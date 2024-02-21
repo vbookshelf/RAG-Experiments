@@ -55,4 +55,7 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/EXP_16-functionRAG-JS
 - Exp_17 - Create an ArXiv research paper RAG search system using FAISS<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_17-Create-ArXiv-search-system-using-FAISS
 
+- Exp_18 - Create a simple Curl Php API call to Weaviate<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_18-Create-simple-Php-API-call-to-Weaviate
+
 
