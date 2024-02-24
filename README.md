@@ -61,4 +61,7 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_18-Create-simple-Php
 - Exp_19 - paperRAG-PHP: Create a PHP RAG to search papers in the ArXiv dataset<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_19-PaperRAG-PHP
 
+- Exp_20 - paperRAG-JS: Create a JS RAG to search papers in the ArXiv dataset<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_20-paperRAG-JS
+
 
