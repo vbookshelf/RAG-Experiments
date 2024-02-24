@@ -1,4 +1,4 @@
-## Exp_19 - Create a PHP RAG to search papers in the ArXiv dataset
+## Exp_19 - paperRAG-PHP: Create a PHP RAG to search papers in the ArXiv dataset
 
 ### Objective
 - Build a ully fuctiobnal RAG app in PHP.
