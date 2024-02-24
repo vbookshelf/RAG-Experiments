@@ -58,4 +58,7 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_17-Create-ArXiv-sear
 - Exp_18 - Create a simple Curl Php API call to Weaviate<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_18-Create-simple-Php-API-call-to-Weaviate
 
+- Exp_19 - Create a PHP RAG to search papers in the ArXiv dataset<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_19-PaperRAG-PHP
+
 
