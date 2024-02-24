@@ -1,0 +1,390 @@
+
+
+.header-bground {
+	/*background-color: #fff; */
+	background-color: #36454F; /* Charcoal */
+	
+}
+
+.faq-text {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+
+
+.make-bold {
+  font-weight: 900;
+}
+
+.position-abs {
+	position: absolute;
+}
+
+.position-rel {
+	position: relative;
+}
+
+.set_align {
+	vertical-align: bottom;
+}
+
+.set-min-width {
+	width: 30%;
+}
+
+.make-transparent {
+	
+	opacity: 0;
+}
+
+.price-text-size {
+	
+	font-size: 20px;
+	
+}
+
+.price-text-size1 {
+	
+	font-size: 15px;
+	
+}
+
+
+
+.demo-padding {
+	padding: 10px;
+}
+
+textarea {
+	font-size: 30px;
+}
+
+
+.form-width {
+/*In portrait*/
+	max-width: 60%;
+}
+
+.form-width1 {
+	max-width: 80%;
+}
+
+.form-width3 {
+/*In portrait*/
+	max-width: 60%;
+}
+
+.form-width7 {
+	max-width: 60%;
+
+}
+
+.form-width8 {
+/*In portrait*/
+	max-width: 80%;
+}
+
+
+.topp-margin {
+	margin-top: 20px;
+}
+
+
+ul {
+	
+	padding: 15px;
+}
+  
+.space-letters {
+	letter-spacing: .05em;
+}
+
+
+.unblock {
+display: inline-block;
+}
+
+
+.dont-break-out {
+	/*These are technically the same but use both 
+	to ensure all browsers are supported*/
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+.bground-color {
+	background-color: #f9f9f9; /* #F8F8F8;  rgb(248,248,248) */
+}
+
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-color {
+	color: #404040; /* rgb(64,64,64) */
+}
+
+
+.logo h1 {
+	font-size: 35px;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	line-height: 1.1;
+}
+
+
+.logo1 {
+	font-size: 50px;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	line-height: 1.1;
+	
+}
+
+.logo2 {
+	font-size: 30px;
+	font-family: 'Oswald', Helvetica, sans-serif;
+}
+
+.logo3 {
+	font-size: 22px;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	letter-spacing: 0.9em;
+}
+
+
+
+
+a:hover { 
+  color: #ff9999; /* rgb(0, 255, 191) */
+}
+
+
+
+
+
+
+.test:hover {
+	color: #FF0000;
+	background-color: #FF0000;
+}
+
+
+
+
+
+
+li {
+	font-family: 'Roboto', Helvetica, sans-serif;
+	font-size: 16px;
+	padding-bottom: 12px;
+}
+
+.news-font {
+	font-size: 13px;
+}
+
+
+.no-margin {
+	margin: 0px;
+}
+
+
+
+.add-padding {
+	padding-bottom: 30px;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+
+
+.title {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.hide {
+	display: none;
+}
+
+
+
+
+
+
+
+.space-letters {
+	letter-spacing: .05em;
+}
+
+
+
+.unblock {
+	display: inline-block;
+}
+
+
+.dont-break-out {
+	/*These are technically the same but use both 
+	to ensure all browsers are supported*/
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+
+.side-margin1 {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+
+.bottom-margin {
+	margin-bottom: 60px;
+}
+
+.topp-margin {
+	margin-top: 40px;
+}
+
+
+
+.set-height {
+	height: 70px;
+}
+
+
+
+.normal-bar {
+	display: block;
+}
+
+
+.mobile-bar {
+	display: none;
+}
+
+.make-bold {
+	
+	font-weight: bold;
+	
+}
+
+.message-text {
+	font-size: 16px;
+}
+
+
+p {
+	color: #42444e; /* Slate */
+	font: 400 17px/1.6em "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: .05em;
+	margin-bottom: 10px;
+}
+
+.email-field {
+	display: none;
+}
+
+
+
+/*
+-----------------
+MEDIA QUERIES
+-----------------
+*/
+
+@media only screen and (min-device-width: 1200px) {
+/* Devices that are Laptops and Desktops */
+
+
+
+}/*Close Media Query*/
+
+
+@media only screen and (max-width: 480px) and (orientation: portrait){
+/*Cellphone Screens in portrait*/
+
+
+
+.side-margin1 {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.message-text {
+	font-size: 20px;
+}
+
+.form-width7 {
+	max-width: 100%;
+}
+
+.form-width8 {
+	max-width: 100%;
+}
+
+
+.normal-bar {
+	display: none;
+}
+
+
+.mobile-bar {
+	display: block;
+}
+
+
+.faq-text {
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.quest-text {
+	font-size: 14px;
+}
+
+
+
+} /*Close Media Query*/
+
+
+@media only screen and (max-width: 480px) and (orientation: landscape){
+/*Cellphone Screens in landscape*/
+
+.side-margin1 {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+.message-text {
+	font-size: 20px;
+}
+
+.normal-bar {
+	display: none;
+}
+
+
+.mobile-bar {
+	display: block;
+}
+
+.faq-text {
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.quest-text {
+	font-size: 14px;
+}
+
+
+} /*Close Media Query*/
+
+
+
