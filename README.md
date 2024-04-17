@@ -64,4 +64,8 @@ https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_19-PaperRAG-PHP
 - Exp_20 - paperRAG-JS: Create a JS RAG to search papers in the ArXiv dataset<br>
 https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_20-paperRAG-JS
 
+- Exp_21 - KaggleRAG-PHP: Create a PHP RAG web app that answers questions about the Kaggle platform<br>
+https://github.com/vbookshelf/RAG-Experiments/tree/main/Exp_21%20-%20KaggleRAG-PHP
+
+
 
