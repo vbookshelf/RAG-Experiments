@@ -1,0 +1,97 @@
+
+
+{Kaggle Docs: Organizations} Organizations
+How to create, use, and manage organization profiles
+Link to section in Kaggle Docs: https://www.kaggle.com/docs/organizations
+
+###
+
+{Kaggle Docs: Organizations} Overview
+
+Anyone can create an organization profile on Kaggle. Organization profiles allow anyone in the community can find your organization's datasets, models, and competitions in one place.
+
+Before creating an organization, it's helpful to understand how organization profiles work.
+
+###
+
+{Kaggle Docs: Organizations}  How do organization profiles work
+
+What are organizations for?
+Organization profiles are a "landing page" for your organization's published competitions, models, and datasets. For example, it gives you an easy way to share (and other users to find) all of the datasets and models that your team has published with a single link.
+
+What are organizations NOT for?
+Currently, organizations are not meant to be used as a tool for collaboration with a group of people. While all members of an organization can create competitions, datasets, and models as an organization, this does not give other members of the organization the ability to manage that content (edit, delete, update, or view private resources). Read more about organization permissions below.
+
+Who should create and use organization profiles?
+There are a number of groups for whom organization profiles can be helpful! For professors, an organization profile can make it easier to see and manage the community competitions that you host for your classes. For research labs, whether part of a university or industry corporation, organization profiles provide a way to organize the models and datasets your team has published in one place. For large companies, an organization profile will display all of the competitions you've hosted.
+
+###
+
+{Kaggle Docs: Organizations}  Creating a new organization profile
+
+Creation
+Anyone can create an organization profile. To create one, click on the "+Create" button in the upper lefthand corner on any page on Kaggle. This will open up the creation flow.
+
+On this page you'll fill out the following information:
+
+- Name: The name of your organization
+- Tagline: A short description of your organization
+- URL: You should edit this to something that's short. All links to this organization page will start with this URL, e.g., any datasets or models it owns.
+- Website: A URL to your organization website
+- Image: A 400 x 400px image of your organization logo
+- Moderation Details: Information you share here won't appear on your organization profile page, but will be used by our team to review your organization for approval.
+
+You'll be able to change your organization Name, Tagline, Website, and Image among other things once you've clicked "Create organization". You will also be able to add a bio and invite members to your organization and more.
+
+Once you click "Create organization", your organization will be reviewed by Kaggle's moderation team for approval before it's made public. Continue to the next section "Review" to learn more about the next steps.
+
+Review
+While your organization is being reviewed by Kaggle's moderation team it's in a "pending" state.
+
+While your organization is in a pending state, you are able to invite members but you won't be able to start creating competitions, datasets, or models under your organization profile until it's approved.
+
+While your organization is in a pending state, the organization profile will not be publicly visible to non-members.
+
+At this point, Kaggle's moderation team will review your organization profile for approval. You will receive a notification when your organization profile's status changes.
+
+If you have questions about the review process or you would like to appeal a review, please see our contact page: https://www.kaggle.com/contact#/other/issue
+
+Approval
+Once your organization has been approved, you'll receive an email and/or site notification. You and other members of the organization can now create organization-owned datasets, models, or competitions including making them public. Anyone can also see your organization's profile page.
+
+###
+
+{Kaggle Docs: Organizations}  Organization member permissions
+
+Abilities of organization members
+Organization members can create datasets, models, and competitions under approved organization profiles.
+
+Again, organizations are not currently meant to be used as a tool for collaboration with a group of people. While all members of an organization can create competitions, datasets, and models as an organization, this does not give other members of the organization the ability to manage that content (edit, delete, update, or view private resources).
+
+If you want to share private datasets or models owned by an organization profile, you will need to use Collaboration features.
+
+Similarly, organization members are NOT able to see any unlaunched competitions unless their user is the creator of the competition.
+
+Members will not be able to add new members to an organization unless the organization owner shares the unique invitation link.
+
+Abilities of organization admins
+Organization admins have the same abilities and permissions as organization members. In addition, they can add and remove members, transfer ownership of the organization to another member, and edit information about the organization (logo, tagline, description, etc.).
+
+###
+
+{Kaggle Docs: Organizations}  How to create content as an organization
+
+Competitions
+Anyone can host a community competition, by clicking the "+Create" button in the upper lefthand corner of any page on Kaggle and selecting "Competition." In order to associate your competition with an organization profile that you are an admin or member of, simply choose your organization from the "Creating As" dropdown.
+
+When a competition is created under an organization profile, the competition will feature your organization's logo and the competition will show up on the "Competitions" tab of your organization's profile page.
+
+When a competition is created under an organization profile, there are NO changes to who can see or manage your competition. That is, other members of the organization cannot see an unlaunched competition and they cannot manage the settings of your competition when it is launched.
+
+Datasets and Models
+Anyone can publish datasets or models, by clicking the "+Create" button in the upper lefthand corner of any page on Kaggle and selecting "Dataset" or "Model". In order to associate your dataset or model with an organization profile that you are an admin or member of, simply choose your organization from the "Creating As" dropdown.
+
+When a competition is created under an organization profile, the dataset or model will feature your organization's logo and the dataset or model will show up on the "Datasets" or "Models" tab respectively of your organization's profile page.
+
+When a dataset or model is created under an organization profile, other members will be able to see it while it's private. There are NO changes to who can see or manage your datasets or models created under an organization profile. That is, other members of the organization cannot cannot edit, delete, or update the datasets or models unless they are separately added as edit collaborators on the "Settings" tab of the dataset or model.
+

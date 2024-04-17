@@ -1,0 +1,390 @@
+
+Kaggle Team Members (Employees) and their profiles
+Link to section in Kaggle website: https://www.kaggle.com/about/team
+
+
+{Kaggle team member} D. Sculley
+CEO
+D. Sculley is the CEO at Kaggle. Prior to coming to Kaggle, he was a director at Google Brain, leading research teams working on robust, responsible, reliable and efficient ML and AI. In his career in ML, he has worked on nearly every aspect of machine learning, and has led both product and research teams including those on some of the most challenging business problems. Some of his well known work involves ML Technical Debt, ML Education, ML Robustness, production-critical ML, and ML for scientific applications such as protein design.
+
+###
+
+{Kaggle team member} Julia Elliott
+COO
+Julia Elliott is Kaggle's COO, overseeing its Operations, Strategy, Marketing, Developer Relations, and Program Management functions. She holds a degree in electrical engineering from the University of Pennsylvania and a MBA from the University of North Carolina at Chapel Hill. Prior to Kaggle, she worked at IBM and Upwork and is skilled at building scalable operational solutions for technology products that provide customer solutions. She's passionate about making technology more inclusive and accessible to historically marginalized communities.
+
+###
+
+{Kaggle team member} Jeff Moser
+Chief Architect
+Good software is a game of inches where polishing is very important. My main strategy is to invest a lot of blood, sweat, and tears into a product and then multiply its value by the number of its happy users.
+
+###
+
+{Kaggle team member} William Cukierski
+Head of Competitions and Data Scientist
+Will Cukierski has a bachelor’s degree in physics from Cornell University and a Ph.D. in biomedical engineering from Rutgers, where he studied applications of machine learning to cancer research. He has published on graph theory, dimensionality reduction, clustering, and image analysis.
+
+###
+
+{Kaggle team member} Jerad Rose
+Developer
+Jerad is a full-stack software engineer with a focus on building highly interactive web applications. Before jumping on board the Kaggle train, he was an architect for Humana. He has a drive for building online communities, founding & running his own web community since 2002.
+
+###
+
+{Kaggle team member} Meghan O'Connell
+Strategy and Operations
+Meghan graduated from Santa Clara University with a double bachelor's degree in Economics and Marketing. Prior to joining Kaggle, Meghan worked as the Manager of Professional Services for a boutique outsourcing firm, where she was responsible for scaling project management operations.
+
+###
+
+{Kaggle team member} Myles O'Neill
+Designer
+Myles is passionate about solving complex problems using elegant designs. He holds a bachelor's degree in computer science and genetics from the Australian National University. Myles likes to create things in his spare time. He recently Kickstarted and published his own board game.
+
+###
+
+{Kaggle team member} Meg Risdal
+Product Manager
+Meg holds Master's degrees in linguistics from UCLA and NC State University where she studied laboratory phonology and sociophonetics. Prior to Kaggle, she was a data scientist in market research and product manager at Stack Overflow. She's passionate about open technical communities.
+
+###
+
+{Kaggle team member} Maggie Demkin
+Customer Success
+Maggie works with Kaggle hosts to launch competitions on the platform. She brings customer lifecycle management and operations experience from different industries to manage successful competitions. She has an MBA from the University of Chicago in Finance and Strategic Management as well as a Bachelors from the University of California, Berkeley.
+
+###
+
+{Kaggle team member} Mark McDonald
+Marketing
+Before joining Kaggle, Mark worked as a content marketer for several products at Google. Outside of work, you'll likely find him watching Chopped re-runs with his wife and two goofy dogs.
+
+###
+
+{Kaggle team member} Addison Howard
+Business Development Manager
+Addison has three bachelor’s degrees in Mathematics, Economics and Accounting from Furman University, and a Masters Degree in Accounting from Wake Forest. He spent the early part of his career working as a management consultant with a Big Data analytics start up, specializing in enterprise journeys and client relationship management.
+
+
+###
+
+{Kaggle team member} Walter Reade
+Data Scientist
+Walter Reade is a Data Scientist on the competitions team. After earning a Ph.D. in chemical engineering from the Pennsylvania State University, Walter spent 15 years in industry working on a number of interesting and highly-challenging problems in research, manufacturing, and supply chain.
+
+###
+
+{Kaggle team member} Sohier Dane
+Data Scientist
+Sohier is a data scientist on the competitions team. Before entering the tech industry he earned a degree in biology from Northwestern University and spent a decade in renewable energy. When he's not asking "what's the worst thing that could go wrong with this dataset" he enjoys traveling, eating new food, and traveling to eat new food.
+
+###
+
+{Kaggle team member} Jim Plotts
+Developer
+Jim is a software engineer with more than a decade of experience building reliable, scalable web applications. Prior to joining Kaggle, he worked at Google and Microsoft. He has a bachelor's degree in computer science and a master's degree in human computer interaction.
+
+###
+
+{Kaggle team member} Nathan Jervis
+Developer
+Nathan is a software engineer with a passion for building products that work well, solve problems, help people, and bring positive change in the world. His non-software passions include trying to survive raising 2 girls and half-finishing home improvement projects.
+
+###
+
+{Kaggle team member} Camille McMorrow
+Designer
+Camille is an Austin-raised, NYC-based interaction designer. She joined Kaggle from Google's UX team, and holds an MFA in Design from the School of Visual Arts in NYC. She has a multidisciplinary background, and thrives on complex problems and making the digital world better for people.
+
+###
+
+{Kaggle team member} Paul Mooney
+Developer Advocate
+Paul is a part of the Developer Advocacy Team at Kaggle. He has a PhD in Molecular & Cellular Life Sciences and can be found hiking and biking in the mountains of Colorado.
+
+###
+
+{Kaggle team member} Chelsea Raerek
+Designer
+Chelsea is enamored with art and design, and she strives to create useful, memorable user experiences that are pixel perfect. She carries a BA in Graphic Design and enjoyed eight years of creative experience at San Francisco agencies and the Search Ads team at Google before joining Kaggle. When she is not designing she can be found camping, swimming and playing video games (not usually all at the same time).
+
+###
+
+{Kaggle team member} Zach Diemer
+Developer
+Zach is a software engineer and alumnus of Florida State University, where he received a bachelor’s degree in computer science. Previously, Zach worked as a software engineer at Nielsen in Tampa, FL. He strives to create elegant solutions to complex problems. In his spare time, he enjoys board games, disc golf, and music festivals.
+
+###
+
+{Kaggle team member} DJ Sterling
+Developer
+DJ is a software engineer with a passion for data science. Prior to joining Kaggle, DJ earned Bachelor's degrees in Math and Computer Science and a Master's degree in Computational Neuroscience, and was a software engineer on Google's Payments Team.
+
+###
+
+{Kaggle team member} Phil Culliton
+Data Scientist
+Phil Culliton has spent the last 19 years in ML/AI engineering and research roles, and has led ML and development teams in several industries. He has published on object representation in computer vision and medical modeling. Phil spent several years as a game developer, optimizing rendering pipelines and AI architectures. In his free time, you can find him playing board games with his three awesome kids.
+
+###
+
+{Kaggle team member} Vincent Roseberry
+Developer
+Before joining Kaggle, Vincent spent 3 years as a Software Engineer at Google and a few more at AWS. He worked on various projects from web rendering in the cloud to optimizing Google Data Center supply chain. Outside of work, you’ll likely find him somewhere in the mountains hiking, trail running, skiing or rock climbing.
+
+###
+
+{Kaggle team member} Dustin Herbison
+Developer
+Dustin is a software engineer who enjoys creating elegant solutions to hard problems. Prior to joining Kaggle, he worked on Google's supply chain inventory systems.
+
+
+###
+
+{Kaggle team member} Erdal Sivri
+Developer
+Erdal has a master's degree in computer science. Before joining Kaggle's kernels team, he has worked at Google as a Software Engineer contributing to Google's own version control system for almost 4 years. Erdal enjoys coding, sleeping and biking.
+
+###
+
+{Kaggle team member} Philippe Modard (Mod)
+Developer
+Mod is a back-end software engineer, passionate about distributed systems, and more recently about data science. Before Kaggle, Mod worked as a rocket scientist in Belgium, as a software engineer for a few startups in San Francisco, and recently for Google Cloud Build. In his spare time, he enjoys the never-ending music scene of New York, and travels around the world.
+
+###
+
+{Kaggle team member} Erica Brick
+User Experience Research
+Erica is passionate about uncovering true user needs to build delightful experiences. Prior to joining Kaggle, Erica built User Experience Research programs and teams at Trulia, Weebly and Google Ads. She received her Master’s degree in Human Computer Interaction from San Jose State University. Outside of work, she enjoys activities in the sun with her family, friends, and 8-year old Australian Shepherd.
+
+###
+
+{Kaggle team member} Ryan Holbrook
+Data Scientist
+Before joining Kaggle, Ryan taught math in higher ed for many years. Before that, he studied mathematics and cognitive science at the University of Oklahoma. He has a love of good food and old books, and his favorite thing to do is learn something new.
+
+###
+
+{Kaggle team member} Bovard Doerschuk-Tiberi
+Developer
+Bovard is a full stack software engineer on Kaggle's Competitions Team. Bovard studied computer science and mathematics at Montana State University before getting a Masters in Data Science from UC Berkeley. In between he served as a Peace Corps Volunteer in Burkina Faso teaching computer literacy. Before Kaggle Bovard worked at Google Nest. Bovard enjoys AI programming competitions, chess, reading, and getting outside with his family.
+
+###
+
+{Kaggle team member} Jon Masukawa
+Developer
+Jon is a software engineer with a passion for building web applications that empower online creative communities to thrive. Prior to Kaggle, he worked at YouTube, and holds a Master's degree in Computer Science from the University of California, Irvine. When not writing code, he enjoys a good cup of coffee, board / video games, and cooking.
+
+###
+
+{Kaggle team member} Michael Aaron
+Developer
+Michael is a front-end software engineer on Kaggle's Competitions Team. Prior to Kaggle, Michael worked on IoT tooling at Google Nest. When not bashing his face against code, Michael escapes to the mountains to hike, highline, and climb. Additionally he is a dedicated silks/rope aerialst in preparation for running away to join the circus.
+
+###
+
+{Kaggle team member} Ryan Sims
+Designer
+Ryan is a designer on the Competitions Team. He's based in the Bay Area and appreciates legos, p5.js, motion design and architecture. He joined Kaggle in 2020 and previously worked at Google X (on a previously super-secret aquaculture project). Before that, he spent 15 years doing design at numerous startups and agencies. He studied Human Computer Interaction at Georgia Tech, and holds a BA in Anthropology from the University of South Carolina. When he's not working, he's probably with his wife or one of his three boys.
+
+###
+
+{Kaggle team member} Ronil Modi
+Technical Support Specialist
+Ronil is a Technical Support Specialist at Kaggle. Before joining Kaggle Ronil worked at ADP and at HSBC and he gained experience with both project planning and workflow prioritization. In his free time he likes to study the six sigma problem solving method and also data science.
+
+###
+
+{Kaggle team member} Jon Lipovetz
+Developer
+Jon is a full-stack software engineer on Kaggle's Competitions team. He holds a B.S. in Computer Science from the University of Minnesota - Twin Cities. Prior to joining Kaggle, Jon worked on Chrome at Google. First he was a backend developer for Loading Experience, and then he was an infrastructure engineer on the Chrome Web Store. In his free time, Jon collects records and goes to many concerts and music festivals.
+
+###
+
+{Kaggle team member} Goeff Thomas
+Developer
+Goeff is a full-stack software engineer based out of Los Angeles. He taught English in Korea for 2.5 years before attending a software development boot camp in 2016. Accordingly, he has developed passions for both teaching and building software that delights users. A gamer from an early age, his favorites include Chrono Trigger, Earthbound, Super Mario RPG, and Final Fantasy's VII, IX, and X.
+
+###
+
+{Kaggle team member} Ashley Chow
+Competitions Program Manager
+Ashley is a Program Manager in Kaggle’s Competitions Team. Prior to joining Kaggle, Ashley has juggled 7 roles at Google, working on Google Ads/ YouTube Ads in Sales and technical product operations teams. In her spare time, She enjoys learning new skills and finding ways to automate tedious tasks in life and at work.
+
+###
+
+{Kaggle team member} Bob Fraser
+Developer Manager
+Bob comes to Kaggle from previous stints at Google working on Maps and Stadia. He has a Ph.D. in computational geometry from the University of Waterloo, and his earlier degrees are a B.Sc. in environmental science from Carleton University, a B.Sc. in computational intelligence and design from UBC, and a M.Sc. in bioinformatics from Queen's University. In his free time, Bob enjoys biking, travelling, and good food.
+
+###
+
+{Kaggle team member} Yuting Han
+Interaction Designer
+Yuting is an Interaction Designer at Kaggle. She holds a bachelor's degree in Computer Science from University of California, Davis, and a master's degree in Human-Computer Interaction and Design from University of Washington. Previously, she worked on Google Workspace HUB (Gmail, Chat, Spaces) 1P/3P integration and Oracle Cloud and AI products. In her free time, she enjoys hanging out with her cats🐱, going to new restaurants and traveling.
+
+###
+
+{Kaggle team member} Nate Keating
+Head of Product
+Prior to joining Kaggle, Nate was senior PM in Google Cloud on AI products. He holds a B.S. in Economics from Duke University. What would you like to see Kaggle do next?
+
+###
+
+{Kaggle team member} Sailaja Raja
+QA Tester
+"Sailaja is from Chennai.She is a QA Tester with 5 years of experience in managing software testing throughout the testing phase. She has expertise in ensuring software reliability and performance by conducting quality assurance testing, including software test case development and execution, implementation of test plans, and bug tracking.Has worked in all the phases of STLC. In her spare time she enjoys travelling with her family."
+
+###
+
+{Kaggle team member} Domino Weir
+Developer
+Domino is a front-end software engineer for Kaggle’s Community team. She holds a BSE in Electrical and Computer Engineering from UT Austin and an MS in Computer Science from Georgia Tech. Previously, Domino worked at MongoDB as a UI Engineer for MongoDB University. Her interests are deaf tech, web accessibility, and online education. Domino is originally from Texas and now lives and works in New York City. Outside of work, she loves to dance, roller skate, and make her own clothes.
+
+###
+
+{Kaggle team member} Rainy Winchell-Chaet
+Program Manager
+Rainy holds a Bachelor's degree in Human Resource Management from AIU and a certificate in Project Management through Villanova University. She has multiple years of project planning and execution of small to large business projects. Proven experience in collaborating with stakeholders and team members to assess gaps and develop strategic planning which supports corporate initiatives. Possess broad knowledge of organizational development and talent management with Fortune 500 companies. In her spare time, she enjoys spending time with her son and granddaughter. She also enjoys traveling and exploring new cultures.
+
+###
+
+{Kaggle team member} Ray Harvey
+Program Manager
+Ray is a Program Manager on Kaggle's Strategy and Operations team, focusing on community activation and impact. She is helping early in career data scientists grow in their journey and evolving the industry landscape through KaggleX. Ray holds a B.S. in Management from the University of San Francisco, and has over 10 year of experience in tech working in various functions, such as business development, customer experience and strategy & operations. She is interested in scaling sustainable solutions and passionate about diversity-equity-inclusion.
+
+###
+
+{Kaggle team member} Jun Peng
+Developer Manager
+Jun is an software engineer manager with previous work at Google in Ads, Android, Payment and Cloud. His recent work was around building fleet wide analytical data warehouse for data scientists to find ways to improve resource utilization. He also worked on text classification with ML when he first joined Google. In his free time, Jun enjoys skiing, skating and traveling.
+
+###
+
+{Kaggle team member} Brandon Horton
+Developer
+Brandon is a software engineer on the Kaggle Notebooks team. Before joining Kaggle, he worked at Microsoft on Microsoft Teams. He holds a B.S. in Physics and an M.S. in Computer Science from the University of Southern California (Fight On ✌). He enjoys non-stop eating and walking through cities. He also loves attending performances, mostly in the form of live theatre and interactive haunted houses.
+
+###
+
+{Kaggle team member} Artem Platonov
+Developer
+Artem is a software engineer on the Kaggle's Community team. Before joining Kaggle, he worked on web interfaces for Cloud Run, Cloud Spanner and other GCP products. He holds an M.S. in Computer Science and Information Security from the Saratov State University. In his spare time, he enjoys playing music (piano, guitar, harmonica, darbouka) and learning new skills.
+
+###
+
+{Kaggle team member} Prathamesh Bang
+Developer
+Prathamesh is a software engineer on the Kaggle Kernels team. Prior to joining Kaggle, he worked at Microsoft on Azure SQL DB infrastructure. He completed his undergrad at Cornell University with a major in Computer Science and a minor in Business. In his free time, Prathamesh enjoys skiing, hiking, and exploring New York City, where he currently lives.
+
+###
+
+{Kaggle team member} Jennilyn Fernandez
+Community Moderator
+Jennilyn Fernandez is a Community Moderator at Kaggle on the Strategy and Operations team. She is passionate about building a healthy, adaptable and proactive community for kagglers! Before joining Kaggle, she was a customer success/support lead at a multifamily start-up company. In her free time, Jennilyn enjoys spending time with her kids (3 boys), cooking, starbucks/target runs & binge watching.
+
+###
+
+{Kaggle team member} Kestin Merritt Moon
+Community Moderator
+Kestin is a community moderator who strives to cultivate a fair, accepting and innovative community for all Kagglers. She carries a bachelor’s degree in Digital Technology & Culture from Washington State University, where she also worked as a student graphic designer. Before joining Kaggle, Kestin worked as an analyst and customer support specialist for a start-up company specializing in TV advertising metrics. Outside of work, Kestin enjoys weight lifting, playing with her corgi and traveling with her husband and friends.
+
+###
+
+{Kaggle team member} Kinnera Malledi
+Product Support Specialist
+Kinnera is a Product Support Specialist at Kaggle. Before joining Kaggle, Kinnera worked at Aptiv, Intel, and Honeywell. In her free time, she loves cooking regional home recipes, playing with her cat and two dogs, and arts and crafts with her roommates.
+
+###
+
+{Kaggle team member} Sierra Warshawsky
+Marketing
+Sierra Warshawsky is a Marketing Production Specialist on the Kaggle team. Having graduated from Parsons School of Design and formerly working at major record labels and dating apps prior to joining Kaggle, she brings a creative perspective to marketing. Outside of work, she enjoys exploring all New York City has to offer, spending time with her friends, and boxing.
+
+###
+
+{Kaggle team member} Kinjal Parekh
+Marketing
+Kinjal Parekh is a Marketing Performance Manager at Kaggle with a strong background in marketing analytics, having completed her MS in the field. Kinjal's professional experience includes working as a Marketing analyst. Outside of work, she indulges in her passion for food by exploring and reviewing the best restaurants as an influencer. She is also an avid shopper, always on the lookout for her next dining destination.
+
+###
+
+{Kaggle team member} Jonathan McWilliams
+Data Scientist
+Jonathan is a data scientist on Kaggle's Competitions and Moderations teams. He holds a Bachelor of Science in Finance from the University of Missouri. Prior to joining Kaggle, he worked as a data scientist for a number of companies in Seattle, including Microsoft. Outside of work, he enjoys running, biking, weight lifting, financial markets, British television, baseball, gardening, board games, and trying to cook.
+
+###
+
+{Kaggle team member} Andrew Wang
+Developer
+Andrew is a full-stack software engineer based in Waterloo, Canada working on Kaggle's Datasets team. Andrew holds a B.A.Sc. in Software Engineering from the University of Toronto. Before moving to Kaggle, Andrew was a part of the Stadia and Tilt Brush teams at Google. In his free time Andrew enjoys cooking and trying new foods, board games and rock climbing.
+
+###
+
+{Kaggle team member} AK Kulkarni
+Product Manager
+AK is a PM at Google and Kaggle. Prior to Google, AK worked at a marketing agency and an education management company as an analyst. He started his analytics career learning data science on Kaggle. AK studied Economics at the University of Miami (FL) and is learning game development in his spare time.
+
+###
+
+{Kaggle team member} Chiamaka Chukwuka
+Developer
+Chiamaka holds a bachelor's degree in Computer Science from Columbia University where she concentrated in Intelligent Systems. She is passionate about Data Science, especially as it relates to ML. She has sat on various orgs at Google (Assistant, Ads, and Flutter). And in her free time Chiamaka enjoys painting, drawing, and interior design.
+
+###
+
+{Kaggle team member} Tiffany Xiang
+Developer
+Tiffany is a software engineer on the Kaggle Kernels team. She graduated from Rice University with a Bachelor’s degree in Computer Science. Originally from California, Tiffany now lives and works in New York City. In her free time, she enjoys fashion, dancing, music festivals, travel, and reading.
+
+###
+
+{Kaggle team member} Nesh Devanathan
+Developer
+Nesh is a Software Engineer on the Kaggle Kernels team. Prior to joining Kaggle, Nesh worked as an MLE in areas such as NLP, computer vision and Ads attribution modeling. He enjoys learning new technologies and using machine learning to solve interesting problems. In his free time, he enjoys gaming, playing basketball and spending time with his kids.
+
+###
+
+{Kaggle team member} Tae Hyung Kim
+Developer
+Tae is a Software Engineer on the Kaggle Kernels team. He holds a Bachelor's degree in Computer Science and Mathematics from the University of California, Berkeley. Before joining Kaggle, he was on the Flutter team at Google. In his free time, Tae plays the piano and video games.
+
+###
+
+{Kaggle team member} Steve Messick
+Developer
+Before joining the Kaggle kernels team, Steve had a couple decades of experience working on language-specific extensions for IDEs like Eclipse, IntelliJ, and VS Code. He joined Google as part of an acquisition in 2010, and transferred to Kaggle in 2023.
+
+###
+
+{Kaggle team member} Chris D'Mello
+Developer
+Chris is a software engineer on Kaggle's Competitions team. He studied computer science at the University of Texas at Dallas. Before joining Kaggle, Chris worked on Google Photos. In his free time, Chris likes playing his guitar, hiking, and making stuff on his 3D printer.
+
+###
+
+{Kaggle team member} Jonathan Ward
+Developer
+Jonathan is a Software Engineer on the Kaggle Kernels team. Jonathan holds a Bachelor's Degree in Computer Engineering from North Carolina A&T. Jonathan has had a few positions at Google before starting full-time (Android, Ads, and Core (TAG)). In Jonathan's free time he enjoys critiquing shows/movies, learning about photography and playing video games.
+
+###
+
+{Kaggle team member} Jonathan Calderon Chavez
+Developer
+Jonathan is a Software Engineer on the Kaggle Kernels Team. He holds a bachelor's degree in Computer Science from Sonoma State University. Prior to joining Kaggle, he worked as a Software Engineer in Google Commerce. In his free time, Jonathan is a horror film enthusiast and enjoys event decorating, playing guitar, and watching WWE.
+
+###
+
+{Kaggle team member} Hanwen Zhang
+Developer
+Hanwen is a Software Engineer on the Kaggle Competition Team. He holds a Master's degree in Computer Science from the University of Chicago. Before joining Kaggle, he worked as a Software Engineer in Google Photos. In his free time, Hanwen likes playing video games, going for scuba diving and spending time with cats.
+
+###
+
+{Kaggle team member} Lucy He
+Developer
+Lucy is a Software Engineer at Kaggle. She lived in NY for a decade, where she studied computer science at Columbia, worked at Google's think tank, Jigsaw, and built ML products in healthcare at Flatiron Health. Now in SF, she cheers for the Toronto Maple Leafs from afar, seeks out modern/contemporary art, and enjoys golfing in California weather.
+
+

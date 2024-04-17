@@ -1,0 +1,84 @@
+
+{Kaggle Community Guidelines} Ensuring Kaggle is a place where anyone in the world feels welcome to participate.
+Link to section on Kaggle website: https://www.kaggle.com/community-guidelines
+
+Kaggle’s community is made up of data scientists and machine learners from all over the world with a variety of skills and backgrounds. We strongly believe that our community and the future of the field are brighter when we embrace differences.
+
+To help ensure that anyone in the world who loves working with data feels equally welcome to participate, we have created the community guidelines below. Our expectation is that all members of the Kaggle community will uphold these guidelines and contribute to their enforcement by reporting inappropriate content.
+
+###
+
+{Kaggle Community Guidelines} General Guidelines
+
+These guidelines apply to all user communication on kaggle.com, including Discussions, Notebooks, Datasets, etc. whether private or public.
+
+Be patient. Be friendly.
+Nuance is easily lost when communicating online especially when many people are not using their first language. Instead of making assumptions, stay calm and ask clarifying questions. If you feel you can’t be patient or friendly, take a step back and respond later.
+
+Instead of: "This is bad. Why bother doing it this way?”	Try: "Thanks for sharing! Have you considered trying …?”
+Instead of: "Why won’t anyone just tell me how to do well in this competition?”	Try: "I’m not sure how to get started here. Can anyone recommend any resources?”
+
+Discuss and respect ideas. 
+Don’t make it personal.We’re all here to learn and share ideas. When you have critical feedback, focus on the ideas that others are sharing, not the person.
+
+
+Harassment and threats are unacceptable.
+Low-level harassment is still harassment. Even minor or subtle put downs set a negative tone in our community that will alienate others.
+
+
+Bigotry is not allowed.
+We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+
+
+
+Keep it professional.
+Kaggle is a professional community of data scientists and machine learners; NSFW content does not have a home here and will be removed.
+
+
+Don’t try to manipulate the progression system.
+Progression manipulation includes any behaviors that intend to game Kaggle’s reputation system. They harm the fairness and quality of the community and are forbidden on our platform. Off-topic self promotion, upvote collusion, plagiarism, and cheating are some (but not all) examples of progression manipulation.
+
+###
+
+{Kaggle Community Guidelines} Self Promotion
+
+If you want to promote your own work in the form of sharing links to your profile, notebooks or datasets, you may do so in either the Accomplishments forum or in the “sharing-projects” and “celebration” Discord channels. Sharing self-promoting posts in other forums or in comments may result in the removal of that content and a warning may be issued to the author.
+
+Requesting upvotes or suggesting that other users should view or “check out” your work is considered upvote begging and is not allowed. Comments or posts of this nature may be removed and a warning may be issued to the author.
+
+###
+
+{Kaggle Community Guidelines} Forum and Discussion Posts
+
+It is appropriate to share lists, articles, how-tos, industry advice, etc. in the forums, so long as your post:
+
+Is of genuine value to other Kagglers
+Is in alignment with the purpose of the forum or competition you are posting in
+Is written and assembled by you
+Is not AI-generated
+Is not plagiarized from another source
+Is not highly similar to another post on the forum
+
+###
+
+{Kaggle Community Guidelines} Enforcement and Reporting
+
+If you see something that you feel violates these guidelines please bring it to our attention using the flag option on messages and topics. We take your reports very seriously. If you have a concern that you think merits additional attention, you should report it to moderation@kaggle.com. All reports will be kept confidential.
+
+The Kaggle team determines whether content is appropriate and we will make a decision internally. If we’ve found a violation of our community guidelines, repercussions may include (but are not limited to):
+
+Warning
+A warning will be issued as a courtesy to any user who violates Kaggle's community guidelines and may be supplemented with the removal of content associated with the violation. Examples of behavior warranting a warning include but are not limited to upvote begging, spam posting, plagiarism and attempts to manipulate Kaggle's progression system.
+
+Suspension
+If more than one warning is issued, your account may be suspended (i.e., suspensions will only be issued to users who have previously received a warning). A user's access to Kaggle will be revoked for one month following their first suspension and for two months following their second suspension. Please note: we reserve the right to suspend your account without warning in more severe cases.
+
+Ban
+More than two account suspensions in the lifetime of an account may result in an immediate account ban. Additionally, immediate account bans may be issued to those who create duplicate accounts, post NSFW content, have usernames containing offensive language, post excessive spam or abuse kernel resources such as free storage. Bans are considered final.
+
+###
+
+{Kaggle Community Guidelines} Contact Us
+
+Have a question about your account status or want to appeal a warning or suspension? Reach out to Kaggle through the contact page.
+

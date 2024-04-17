@@ -1,0 +1,59 @@
+
+
+{Kaggle Docs: Models} Models
+
+Use and share pre-trained models
+Link to section in Kaggle Docs: https://www.kaggle.com/docs/models
+
+###
+
+{Kaggle Docs: Models}  What is Kaggle Models
+
+Kaggle Models provides a way to discover, use, and (soon) share public pre-trained models for machine learning. Kaggle Models is a repository of TensorFlow and PyTorch pre-trained models that are easy to use in Kaggle Competition notebooks. Like Datasets, Kaggle Models will also organize community activity which will enrich models' usefulness; every model page will contain discussions, public notebooks, and usage statistics like downloads and upvotes that make models more useful.
+
+Kaggle Models is a new product which the Kaggle team will continue to develop and improve based on what the community would like to see. If you'd like to make suggestions for improvements or new features or report bugs, we recommend you create a new topic on the Product Feedback forum.
+
+Where do Models come from?
+Currently, Kaggle Models come from curated sources. In the future, we will add publishing capabilities so anyone who wants to release a model can do so. In the meantime, if you'd like to suggest a new curated source, you can either post a request on the Product Feedback forum or submit a response to this Google Form for our team to review. Alternatively, if you publish a model on TensorFlow Hub, it will be automatically synced to Kaggle Models.
+
+###
+
+{Kaggle Docs: Models}  Finding Kaggle Models
+
+You can find Kaggle Models by using the Models landing page. There are a number of filters and sorts plus free text search. For instances you can search by:
+
+- Filtering to TensorFlow models
+- Filtering by the task tag you want (e.g., classification)
+- Filtering by model size
+- Searching "BERT" in the free text search
+- Sorting by number of upvotes
+- Etc.
+
+You may also want to peruse competitions to see what models are performing well or are otherwise popular for tasks relevant to your use case. Competitors commonly share which models they're using in public notebooks and in discussion write-ups. When you fork a notebook that has a model from Kaggle Models attached to it, your copy will also have the same model attached.
+
+Finally, you can also search for models from within the notebook editor. Use the "Add Models" component in the right-hand pane of the editor to search and attach models to your notebooks. This works similarly to Datasets.
+
+Understanding the model detail page
+When you click on a model you will be taken to the "detail page" for that model. For example, this is the detail page for a BERT model. The model detail page contains an overview tab with a Model Card (metadata and information about how the model was trained, what its acceptable use cases are, any limitations, etc.), a framework and variation explorer, and a usage dashboard. There are tabs for notebooks and discussions. If a model is useful, you can upvote it.
+
+Beyond the overall metadata, a model detail page also organizes all variations and frameworks for a given model. For example:
+
+- Variations: The same model with different numbers of parameters, e.g., small, medium, and large.
+- Frameworks: The same model with different ML library compatibility, e.g., TensorFlow, PyTorch, etc.
+
+You can view and use the specific framework and variation that you want by selecting it in the file explorer on the overview page beneath the Model Card. From here, you can use click "New Notebook" to attach it to a new notebook to start using the model.
+
+###
+
+{Kaggle Docs: Models}  Using Kaggle Models
+
+Currently, Kaggle Models are most useful within the context of Competitions, specifically for use within Notebooks. Start by either forking a notebook that has a model attached (you can view the attached models on the "Input" tab of any notebook), creating a new notebook on a model, or adding a model to a new notebook from the right-hand pane of the editor.
+
+You’ll be prompted to confirm your framework and model variations(s), then simply copy and paste the starter code to load the model.
+
+###
+
+{Kaggle Docs: Models}  Creating a Model
+
+Currently, Kaggle Models is a repository of model sources curated by Kaggle Team. In the future, anyone will be able to share a model to Kaggle Models for use in Competition notebooks and beyond. In the meantime, if you'd like to suggest a new curated source, you can either post a request on the Product Feedback forum or submit a response to this Google Form for our team to review. Alternatively, if you publish a model on TensorFlow Hub, it will be synced to Kaggle Models as long as it uses an Apache 2.0, MIT, or CC0 license type.
+
